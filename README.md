@@ -1,6 +1,6 @@
 # mfc_keys_FR
 
-An exhaustive search over a dictionary is one of the simplest technics that you can conduct on Mifare Classic chips, and sometimes, the only viable one on embedded readers/tools such as the proxmark3. Various dictionaries exist online but are generally huge, without the ability to easily filter it, leading to a long exhaustive search runtime.
+An exhaustive search over a dictionary is one of the simplest technics that you can conduct on Mifare Classic chips, and sometimes, the only viable one on embedded readers/tools such as the proxmark3 (standalone mode). Various dictionaries exist online but are generally huge, without the ability to easily filter it, leading to a long exhaustive search runtime.
 
 **The repository focuses on compiling keys that are commonly used by Mifare Classic devices in France and neighboring countries**
 
